@@ -30,7 +30,7 @@ export default function ProductList({ auth, showAlert, openAuthModal }) {
   const imageUrl = (pImage) => {
     if (!pImage) return null;
     return pImage.startsWith("/uploads")
-      ? `http://localhost:5000${pImage}`
+      ? `${API_BASE}${pImage}`
       : pImage;
   };
 

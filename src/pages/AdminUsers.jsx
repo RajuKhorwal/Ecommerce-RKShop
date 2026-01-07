@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { FaUsers, FaUser, FaEnvelope, FaCrown, FaLock, FaSearch, FaUserShield } from "react-icons/fa";
 
-const API_BASE = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
+const API_BASE = process.env.REACT_APP_BACKEND_URL;
 
 export default function AdminUsers({ auth }) {
   const [users, setUsers] = useState([]);

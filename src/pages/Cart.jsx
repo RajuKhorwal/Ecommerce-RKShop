@@ -18,7 +18,7 @@ export default function Cart({ showAlert }) {
       ? "/fallback.png"
       : val.startsWith("http")
       ? val
-      : `http://localhost:5000${val}`;
+      : `${API_BASE}${val}`;
 
   const fetchCart = useCallback(async () => {
   try {

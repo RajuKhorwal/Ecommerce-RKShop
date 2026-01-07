@@ -16,7 +16,7 @@ export default function Orders() {
       ? "/fallback.png"
       : val.startsWith("http")
       ? val
-      : `http://localhost:5000${val}`;
+      : `${API_BASE}${val}`;
 
   useEffect(() => {
     (async () => {

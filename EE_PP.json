@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21f7"
+  },
+  "name": "Dell XPS 13 Laptop",
+  "description": "Ultra-thin laptop with Intel i7 processor.",
+  "price": 99999,
+  "category": "Electronics",
+  "stock": 5,
+  "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21f8"
+  },
+  "name": "MacBook Pro 14”",
+  "description": "Apple M2 Pro chip, stunning Liquid Retina display.",
+  "price": 189999,
+  "category": "Electronics",
+  "stock": 5,
+  "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21f9"
+  },
+  "name": "Ergonomic Office Chair",
+  "description": "Adjustable chair with lumbar support.",
+  "price": 14999,
+  "category": "Furniture",
+  "stock": 9,
+  "image": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21fa"
+  },
+  "name": "Nike Sports T-Shirt",
+  "description": "Breathable fabric, perfect for workouts.",
+  "price": 1999,
+  "category": "Clothing",
+  "stock": 30,
+  "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21fb"
+  },
+  "name": "Levi’s Denim Jacket",
+  "description": "Classic blue denim jacket for all seasons.",
+  "price": 4499,
+  "category": "Clothing",
+  "stock": 14,
+  "image": "https://images.unsplash.com/photo-1514996937319-344454492b37"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21fc"
+  },
+  "name": "Apple Watch Series 8",
+  "description": "Smartwatch with fitness and health tracking.",
+  "price": 45999,
+  "category": "Electronics",
+  "stock": 10,
+  "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7"
+},
+{
+  "_id": {
+    "$oid": "68b7c0adf60c28d922bf21fd"
+  },
+  "name": "Gucci Sunglasses",
+  "description": "Stylish UV-protected sunglasses.",
+  "price": 15999,
+  "category": "Accessories",
+  "stock": 8,
+  "image": "https://images.unsplash.com/photo-1524253482453-3fed8d2fe12b"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf21fe"
+  },
+  "name": "HP Pavilion Laptop",
+  "description": "Powerful laptop with AMD Ryzen 7 processor.",
+  "price": 72999,
+  "category": "Electronics",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf21ff"
+  },
+  "name": "Logitech MX Master 3",
+  "description": "Ergonomic wireless mouse with fast scrolling.",
+  "price": 8999,
+  "category": "Electronics",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/5082578/pexels-photo-5082578.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2200"
+  },
+  "name": "Mechanical Keyboard",
+  "description": "RGB backlit mechanical gaming keyboard.",
+  "price": 5999,
+  "category": "Electronics",
+  "stock": 22,
+  "image": "https://images.pexels.com/photos/4792721/pexels-photo-4792721.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2201"
+  },
+  "name": "Nike Running Cap",
+  "description": "Lightweight cap with breathable fabric.",
+  "price": 1299,
+  "category": "Clothing",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/1365795/pexels-photo-1365795.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2202"
+  },
+  "name": "Puma Sports Shoes",
+  "description": "Stylish sports shoes for daily use.",
+  "price": 4999,
+  "category": "Shoes",
+  "stock": 16,
+  "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2203"
+  },
+  "name": "Wooden Study Desk",
+  "description": "Compact study desk with drawers.",
+  "price": 12999,
+  "category": "Furniture",
+  "stock": 8,
+  "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2207"
+  },
+  "name": "Asus ROG Gaming Laptop",
+  "description": "High-performance gaming laptop with RTX graphics.",
+  "price": 149999,
+  "category": "Electronics",
+  "stock": 5,
+  "image": "https://images.pexels.com/photos/5380605/pexels-photo-5380605.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2208"
+  },
+  "name": "Reebok Training Shoes",
+  "description": "Durable and comfortable training shoes.",
+  "price": 3999,
+  "category": "Shoes",
+  "stock": 14,
+  "image": "https://images.pexels.com/photos/1032110/pexels-photo-1032110.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2209"
+  },
+  "name": "Women’s Handbag",
+  "description": "Elegant leather handbag for daily use.",
+  "price": 3499,
+  "category": "Accessories",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf220a"
+  },
+  "name": "Rolex Luxury Watch",
+  "description": "Premium analog wristwatch for men.",
+  "price": 499999,
+  "category": "Accessories",
+  "stock": 2,
+  "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf220b"
+  },
+  "name": "Kitchen Mixer Grinder",
+  "description": "Powerful 750W mixer with 3 jars.",
+  "price": 6499,
+  "category": "Appliances",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/276020/pexels-photo-276020.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf220c"
+  },
+  "name": "Refrigerator LG 260L",
+  "description": "Double door frost-free refrigerator.",
+  "price": 25999,
+  "category": "Appliances",
+  "stock": 7,
+  "image": "https://images.pexels.com/photos/112112/pexels-photo-112112.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf220d"
+  },
+  "name": "Microwave Oven",
+  "description": "20L convection microwave oven.",
+  "price": 11999,
+  "category": "Appliances",
+  "stock": 10,
+  "image": "https://images.pexels.com/photos/159014/pexels-photo-159014.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf220f"
+  },
+  "name": "Sony PlayStation 5",
+  "description": "Next-gen gaming console with DualSense controller.",
+  "price": 59999,
+  "category": "Electronics",
+  "stock": 6,
+  "image": "https://images.pexels.com/photos/4523020/pexels-photo-4523020.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2210"
+  },
+  "name": "Xbox Series X",
+  "description": "Powerful gaming console by Microsoft.",
+  "price": 56999,
+  "category": "Electronics",
+  "stock": 8,
+  "image": "https://images.pexels.com/photos/8454341/pexels-photo-8454341.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c158f60c28d922bf2211"
+  },
+  "name": "Kitchen Wooden Shelf",
+  "description": "Wall-mounted wooden shelf for kitchen storage.",
+  "price": 4999,
+  "category": "Furniture",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/276671/pexels-photo-276671.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2212"
+  },
+  "name": "Canon DSLR Camera",
+  "description": "Professional DSLR camera with 24.2MP lens.",
+  "price": 45999,
+  "category": "Electronics",
+  "stock": 10,
+  "image": "https://images.pexels.com/photos/274973/pexels-photo-274973.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2213"
+  },
+  "name": "Apple AirPods Pro",
+  "description": "Noise-cancelling true wireless earbuds.",
+  "price": 24999,
+  "category": "Electronics",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/7156881/pexels-photo-7156881.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2214"
+  },
+  "name": "Bluetooth Speaker",
+  "description": "Portable wireless speaker with deep bass.",
+  "price": 3999,
+  "category": "Electronics",
+  "stock": 29,
+  "image": "https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2215"
+  },
+  "name": "Adidas Hoodie",
+  "description": "Warm fleece hoodie with zipper.",
+  "price": 2999,
+  "category": "Clothing",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2216"
+  },
+  "name": "Leather Wallet",
+  "description": "Genuine leather wallet with multiple slots.",
+  "price": 1599,
+  "category": "Accessories",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2217"
+  },
+  "name": "Wooden Dining Table",
+  "description": "Elegant 6-seater dining table set.",
+  "price": 34999,
+  "category": "Furniture",
+  "stock": 5,
+  "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2218"
+  },
+  "name": "Office Chair",
+  "description": "Ergonomic office chair with lumbar support.",
+  "price": 9999,
+  "category": "Furniture",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/704555/pexels-photo-704555.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221a"
+  },
+  "name": "Electric Kettle",
+  "description": "Stainless steel electric kettle, 1.5L.",
+  "price": 1999,
+  "category": "Appliances",
+  "stock": 24,
+  "image": "https://images.pexels.com/photos/277582/pexels-photo-277582.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221b"
+  },
+  "name": "Cookware Set",
+  "description": "Non-stick cookware set with 5 pieces.",
+  "price": 4999,
+  "category": "Appliances",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/276287/pexels-photo-276287.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221c"
+  },
+  "name": "Digital Alarm Clock",
+  "description": "LED display alarm clock with night light.",
+  "price": 1299,
+  "category": "Electronics",
+  "stock": 50,
+  "image": "https://images.pexels.com/photos/1028741/pexels-photo-1028741.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221d"
+  },
+  "name": "Men’s Sunglasses",
+  "description": "Stylish UV-protected sunglasses.",
+  "price": 1799,
+  "category": "Accessories",
+  "stock": 35,
+  "image": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221e"
+  },
+  "name": "Women’s Sneakers",
+  "description": "Trendy white sneakers for casual wear.",
+  "price": 2999,
+  "category": "Shoes",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf221f"
+  },
+  "name": "Sports Watch",
+  "description": "Digital waterproof sports watch.",
+  "price": 2499,
+  "category": "Accessories",
+  "stock": 28,
+  "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2220"
+  },
+  "name": "Casual Shirt",
+  "description": "Comfortable cotton casual shirt for men.",
+  "price": 1499,
+  "category": "Clothing",
+  "stock": 32,
+  "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2221"
+  },
+  "name": "Women’s Jacket",
+  "description": "Winter jacket with warm inner lining.",
+  "price": 3999,
+  "category": "Clothing",
+  "stock": 14,
+  "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2222"
+  },
+  "name": "Smartphone Tripod",
+  "description": "Adjustable tripod stand for mobile photography.",
+  "price": 1899,
+  "category": "Electronics",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/1459494/pexels-photo-1459494.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2223"
+  },
+  "name": "Portable Hard Drive",
+  "description": "1TB external hard drive with USB 3.0.",
+  "price": 4999,
+  "category": "Electronics",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2224"
+  },
+  "name": "Men’s Belt",
+  "description": "Classic leather belt with metal buckle.",
+  "price": 999,
+  "category": "Accessories",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/278721/pexels-photo-278721.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c238f60c28d922bf2225"
+  },
+  "name": "Bluetooth Headphones",
+  "description": "Over-ear wireless headphones with deep bass.",
+  "price": 3999,
+  "category": "Electronics",
+  "stock": 22,
+  "image": "https://images.pexels.com/photos/374777/pexels-photo-374777.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2226"
+  },
+  "name": "Gaming Laptop",
+  "description": "High performance gaming laptop with RTX graphics.",
+  "price": 89999,
+  "category": "Electronics",
+  "stock": 8,
+  "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2227"
+  },
+  "name": "Wireless Keyboard",
+  "description": "Slim wireless keyboard with ergonomic design.",
+  "price": 2499,
+  "category": "Electronics",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/209151/pexels-photo-209151.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2228"
+  },
+  "name": "Gaming Mouse",
+  "description": "RGB wired gaming mouse with high DPI.",
+  "price": 1599,
+  "category": "Electronics",
+  "stock": 30,
+  "image": "https://images.pexels.com/photos/56904/pexels-photo-56904.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2229"
+  },
+  "name": "Microwave Oven",
+  "description": "20L compact microwave oven for kitchen use.",
+  "price": 7499,
+  "category": "Appliances",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/276907/pexels-photo-276907.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf222a"
+  },
+  "name": "Refrigerator",
+  "description": "Double door refrigerator with frost-free technology.",
+  "price": 34999,
+  "category": "Appliances",
+  "stock": 6,
+  "image": "https://images.pexels.com/photos/3737630/pexels-photo-3737630.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf222b"
+  },
+  "name": "Washing Machine",
+  "description": "Fully automatic washing machine 7kg capacity.",
+  "price": 22999,
+  "category": "Appliances",
+  "stock": 9,
+  "image": "https://images.pexels.com/photos/208474/pexels-photo-208474.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf222d"
+  },
+  "name": "School Backpack",
+  "description": "Durable backpack with multiple compartments.",
+  "price": 1999,
+  "category": "Accessories",
+  "stock": 28,
+  "image": "https://images.pexels.com/photos/374780/pexels-photo-374780.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf222e"
+  },
+  "name": "Women’s Dress",
+  "description": "Elegant summer dress for women.",
+  "price": 2499,
+  "category": "Clothing",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf222f"
+  },
+  "name": "Men’s Jeans",
+  "description": "Blue denim jeans with slim fit.",
+  "price": 1999,
+  "category": "Clothing",
+  "stock": 22,
+  "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2231"
+  },
+  "name": "Casual Sneakers",
+  "description": "Trendy casual sneakers for men.",
+  "price": 2799,
+  "category": "Shoes",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2232"
+  },
+  "name": "Office Desk",
+  "description": "Wooden office desk with drawers.",
+  "price": 11999,
+  "category": "Furniture",
+  "stock": 7,
+  "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2233"
+  },
+  "name": "Bookshelf",
+  "description": "5-tier wooden bookshelf for living room.",
+  "price": 7999,
+  "category": "Furniture",
+  "stock": 10,
+  "image": "https://images.pexels.com/photos/276508/pexels-photo-276508.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2234"
+  },
+  "name": "Bed Frame",
+  "description": "Queen size wooden bed frame.",
+  "price": 25999,
+  "category": "Furniture",
+  "stock": 4,
+  "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2235"
+  },
+  "name": "Table Lamp",
+  "description": "Decorative bedside table lamp.",
+  "price": 1499,
+  "category": "Home Decor",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2237"
+  },
+  "name": "Flower Vase",
+  "description": "Glass flower vase for home decoration.",
+  "price": 1299,
+  "category": "Home Decor",
+  "stock": 17,
+  "image": "https://images.pexels.com/photos/113734/pexels-photo-113734.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2238"
+  },
+  "name": "Perfume Bottle",
+  "description": "Luxury perfume with long-lasting fragrance.",
+  "price": 2999,
+  "category": "Accessories",
+  "stock": 19,
+  "image": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c30cf60c28d922bf2239"
+  },
+  "name": "Makeup Kit",
+  "description": "All-in-one makeup kit for women.",
+  "price": 4999,
+  "category": "Beauty",
+  "stock": 11,
+  "image": "https://images.pexels.com/photos/853427/pexels-photo-853427.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223a"
+  },
+  "name": "Bluetooth Headphones",
+  "description": "Over-ear wireless headphones with noise cancellation.",
+  "price": 4999,
+  "category": "Electronics",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/3394657/pexels-photo-3394657.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223b"
+  },
+  "name": "Smart TV",
+  "description": "55-inch 4K Ultra HD Smart LED TV.",
+  "price": 54999,
+  "category": "Electronics",
+  "stock": 8,
+  "image": "https://images.pexels.com/photos/1444416/pexels-photo-1444416.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223c"
+  },
+  "name": "DSLR Camera",
+  "description": "Professional DSLR camera with 24MP sensor.",
+  "price": 62999,
+  "category": "Electronics",
+  "stock": 6,
+  "image": "https://images.pexels.com/photos/1203803/pexels-photo-1203803.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223d"
+  },
+  "name": "Coffee Maker",
+  "description": "Automatic coffee machine with milk frother.",
+  "price": 7999,
+  "category": "Appliances",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223e"
+  },
+  "name": "Toaster",
+  "description": "2-slice pop-up toaster with browning control.",
+  "price": 1999,
+  "category": "Appliances",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf223f"
+  },
+  "name": "Blender",
+  "description": "Multi-purpose blender with 3-speed control.",
+  "price": 2499,
+  "category": "Appliances",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/1030947/pexels-photo-1030947.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2240"
+  },
+  "name": "Sofa Set",
+  "description": "3-seater fabric sofa with cushions.",
+  "price": 32999,
+  "category": "Furniture",
+  "stock": 5,
+  "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2241"
+  },
+  "name": "Dining Table",
+  "description": "6-seater wooden dining table.",
+  "price": 18999,
+  "category": "Furniture",
+  "stock": 4,
+  "image": "https://images.pexels.com/photos/460537/pexels-photo-460537.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2242"
+  },
+  "name": "Office Chair",
+  "description": "Ergonomic swivel office chair with wheels.",
+  "price": 5999,
+  "category": "Furniture",
+  "stock": 10,
+  "image": "https://images.pexels.com/photos/813691/pexels-photo-813691.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2243"
+  },
+  "name": "Curtains",
+  "description": "Set of 2 blackout curtains.",
+  "price": 2499,
+  "category": "Home Decor",
+  "stock": 30,
+  "image": "https://images.pexels.com/photos/276671/pexels-photo-276671.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2244"
+  },
+  "name": "Carpet Rug",
+  "description": "Soft shaggy carpet rug for living room.",
+  "price": 3999,
+  "category": "Home Decor",
+  "stock": 16,
+  "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2245"
+  },
+  "name": "Ceiling Light",
+  "description": "Modern LED ceiling light fixture.",
+  "price": 3499,
+  "category": "Home Decor",
+  "stock": 22,
+  "image": "https://images.pexels.com/photos/112474/pexels-photo-112474.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2246"
+  },
+  "name": "Lipstick",
+  "description": "Matte finish lipstick long lasting.",
+  "price": 799,
+  "category": "Beauty",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2247"
+  },
+  "name": "Face Cream",
+  "description": "Moisturizing cream for daily use.",
+  "price": 1299,
+  "category": "Beauty",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/373836/pexels-photo-373836.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2248"
+  },
+  "name": "Hair Dryer",
+  "description": "Compact hair dryer with 2 speed settings.",
+  "price": 1999,
+  "category": "Beauty",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/209719/pexels-photo-209719.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf2249"
+  },
+  "name": "Men’s T-Shirt",
+  "description": "Cotton casual T-shirt for men.",
+  "price": 999,
+  "category": "Clothing",
+  "stock": 50,
+  "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf224a"
+  },
+  "name": "Women’s Jacket",
+  "description": "Warm winter jacket for women.",
+  "price": 3499,
+  "category": "Clothing",
+  "stock": 14,
+  "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf224b"
+  },
+  "name": "Sneakers",
+  "description": "Comfortable sneakers for casual wear.",
+  "price": 2999,
+  "category": "Shoes",
+  "stock": 22,
+  "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf224c"
+  },
+  "name": "Formal Shoes",
+  "description": "Leather formal shoes for office wear.",
+  "price": 3999,
+  "category": "Shoes",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c4c3f60c28d922bf224d"
+  },
+  "name": "Running Shoes",
+  "description": "Lightweight running shoes with cushioning.",
+  "price": 2799,
+  "category": "Shoes",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf224e"
+  },
+  "name": "Smartwatch",
+  "description": "Fitness tracker and notification smartwatch.",
+  "price": 6999,
+  "category": "Electronics",
+  "stock": 18,
+  "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf224f"
+  },
+  "name": "Wireless Mouse",
+  "description": "Ergonomic wireless mouse with high precision.",
+  "price": 1499,
+  "category": "Electronics",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2250"
+  },
+  "name": "Mechanical Keyboard",
+  "description": "RGB backlit mechanical keyboard for gaming.",
+  "price": 4999,
+  "category": "Electronics",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2251"
+  },
+  "name": "Microwave Oven",
+  "description": "700W microwave oven with multiple functions.",
+  "price": 5999,
+  "category": "Appliances",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/276575/pexels-photo-276575.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2252"
+  },
+  "name": "Air Fryer",
+  "description": "Healthy cooking air fryer with timer.",
+  "price": 4999,
+  "category": "Appliances",
+  "stock": 15,
+  "image": "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2253"
+  },
+  "name": "Refrigerator",
+  "description": "Double door 250L refrigerator with freezer.",
+  "price": 24999,
+  "category": "Appliances",
+  "stock": 6,
+  "image": "https://images.pexels.com/photos/373948/pexels-photo-373948.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2254"
+  },
+  "name": "Bed Frame",
+  "description": "Queen size wooden bed frame with storage.",
+  "price": 14999,
+  "category": "Furniture",
+  "stock": 5,
+  "image": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2255"
+  },
+  "name": "Bookshelf",
+  "description": "5-tier wooden bookshelf for home or office.",
+  "price": 4999,
+  "category": "Furniture",
+  "stock": 10,
+  "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2256"
+  },
+  "name": "Study Table",
+  "description": "Compact study table with drawer.",
+  "price": 3999,
+  "category": "Furniture",
+  "stock": 14,
+  "image": "https://images.pexels.com/photos/196655/pexels-photo-196655.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2257"
+  },
+  "name": "Wall Clock",
+  "description": "Modern decorative wall clock.",
+  "price": 1499,
+  "category": "Home Decor",
+  "stock": 30,
+  "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2258"
+  },
+  "name": "Desk Lamp",
+  "description": "LED desk lamp with adjustable brightness.",
+  "price": 1299,
+  "category": "Home Decor",
+  "stock": 25,
+  "image": "https://images.pexels.com/photos/573287/pexels-photo-573287.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2259"
+  },
+  "name": "Candle Set",
+  "description": "Set of 3 scented candles for home ambiance.",
+  "price": 999,
+  "category": "Home Decor",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf225b"
+  },
+  "name": "Nail Polish Set",
+  "description": "Set of 5 vibrant nail polish colors.",
+  "price": 699,
+  "category": "Beauty",
+  "stock": 30,
+  "image": "https://images.pexels.com/photos/296444/pexels-photo-296444.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf225c"
+  },
+  "name": "Shampoo",
+  "description": "Herbal shampoo for healthy hair.",
+  "price": 399,
+  "category": "Beauty",
+  "stock": 35,
+  "image": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf225d"
+  },
+  "name": "Men’s Jeans",
+  "description": "Slim fit casual denim jeans.",
+  "price": 1799,
+  "category": "Clothing",
+  "stock": 50,
+  "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf225e"
+  },
+  "name": "Women’s Dress",
+  "description": "Elegant floral dress for casual outings.",
+  "price": 2499,
+  "category": "Clothing",
+  "stock": 34,
+  "image": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf225f"
+  },
+  "name": "Sports Cap",
+  "description": "Adjustable cotton sports cap.",
+  "price": 499,
+  "category": "Clothing",
+  "stock": 45,
+  "image": "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2260"
+  },
+  "name": "Flip Flops",
+  "description": "Comfortable rubber flip flops.",
+  "price": 399,
+  "category": "Shoes",
+  "stock": 40,
+  "image": "https://images.pexels.com/photos/2529150/pexels-photo-2529150.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2261"
+  },
+  "name": "Boots",
+  "description": "Leather ankle boots for casual wear.",
+  "price": 3999,
+  "category": "Shoes",
+  "stock": 12,
+  "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c66ef60c28d922bf2262"
+  },
+  "name": "Sports Shoes",
+  "description": "Running shoes for men and women.",
+  "price": 3499,
+  "category": "Shoes",
+  "stock": 20,
+  "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg"
+},
+{
+  "_id": {
+    "$oid": "68b7c746f60c28d922bf2263"
+  },
+  "name": "Wireless Earbuds",
+  "description": "Noise-cancelling wireless earbuds with charging case.",
+  "price": 2999,
+  "category": "Electronics",
+  "stock": 30,
+  "image": "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg"
+}]

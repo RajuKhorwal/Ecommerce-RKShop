@@ -14,7 +14,7 @@ import AdminProducts from "./pages/AdminProducts";
 export default function App() {
   // boolean auth (true when token exists)
   const [auth, setAuth] = useState(() => {
-    const token = localStorage.getItem("token"); // 1
+    const token = localStorage.getItem("token");
     const user = localStorage.getItem("user");
     return token && user
       ? { token, isAdmin: JSON.parse(user).isAdmin }
@@ -41,7 +41,7 @@ export default function App() {
       localStorage.removeItem("user");
       setUser(null);
       setCartCount(0);
-      setAuth({ token: null, isAdmin: false }); // 2
+      setAuth({ token: null, isAdmin: false });
     } else {
       setAuth(value);
     }
@@ -52,7 +52,7 @@ export default function App() {
     const token = localStorage.getItem("token");
     if (!token) {
       setUser(null);
-      setAuth({ token: null, isAdmin: false }); // 3
+      setAuth({ token: null, isAdmin: false });
       return;
     }
     try {
@@ -63,7 +63,7 @@ export default function App() {
       if (!res.ok) {
         // invalid token: clear
         setUser(null);
-        setAuth({ token: null, isAdmin: false }); // 4
+        setAuth({ token: null, isAdmin: false });
         localStorage.removeItem("token");
         localStorage.removeItem("user");
         return;
@@ -109,7 +109,7 @@ export default function App() {
 
   const showAlert = (msg, type = "success") => {
     setAlert({ msg, type });
-    setTimeout(() => setAlert(null), 1500);
+    setTimeout(() => setAlert(null), 3000);
   };
 
   const isLoggedIn = !!auth?.token;
@@ -125,9 +125,112 @@ export default function App() {
         onProfileClick={() => setShowAuthModal(true)}
       />
 
+      {/* Alert Component with highest z-index */}
       {alert && (
-        <div style={{ position: "fixed", top: 10, right: 10, zIndex: 1000 }}>
-          <div className={`alert-container alert-${alert.type} mb-0`}>{alert.msg}</div>
+        <div
+          style={{
+            position: "fixed",
+            top: "20px",
+            left: "50%",
+            transform: "translateX(-50%)",
+            zIndex: 99999,
+            width: "90%",
+            maxWidth: "500px",
+            animation: "slideDown 0.3s ease-out",
+          }}
+        >
+          <div
+            style={{
+              padding: "16px 20px",
+              borderRadius: "12px",
+              backgroundColor:
+                alert.type === "success"
+                  ? "#d1fae5"
+                  : alert.type === "error"
+                  ? "#fee2e2"
+                  : alert.type === "warning"
+                  ? "#fef3c7"
+                  : "#dbeafe",
+              color:
+                alert.type === "success"
+                  ? "#065f46"
+                  : alert.type === "error"
+                  ? "#991b1b"
+                  : alert.type === "warning"
+                  ? "#92400e"
+                  : "#1e40af",
+              boxShadow: "0 4px 15px rgba(0, 0, 0, 0.1)",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "space-between",
+              fontWeight: "500",
+              fontSize: "15px",
+              lineHeight: "1.5",
+              border: `2px solid ${
+                alert.type === "success"
+                  ? "#6ee7b7"
+                  : alert.type === "error"
+                  ? "#fca5a5"
+                  : alert.type === "warning"
+                  ? "#fcd34d"
+                  : "#93c5fd"
+              }`,
+            }}
+          >
+            <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
+              {/* Icon based on type */}
+              <span style={{ fontSize: "20px", flexShrink: 0 }}>
+                {alert.type === "success"
+                  ? "✅"
+                  : alert.type === "error"
+                  ? "❌"
+                  : alert.type === "warning"
+                  ? "⚠️"
+                  : "ℹ️"}
+              </span>
+              <span>{alert.msg}</span>
+            </div>
+            <button
+              onClick={() => setAlert(null)}
+              style={{
+                background: 
+                  alert.type === "success"
+                    ? "#6ee7b7"
+                    : alert.type === "error"
+                    ? "#fca5a5"
+                    : alert.type === "warning"
+                    ? "#fcd34d"
+                    : "#93c5fd",
+                border: "none",
+                borderRadius: "6px",
+                color:
+                  alert.type === "success"
+                    ? "#065f46"
+                    : alert.type === "error"
+                    ? "#991b1b"
+                    : alert.type === "warning"
+                    ? "#92400e"
+                    : "#1e40af",
+                cursor: "pointer",
+                padding: "4px 8px",
+                marginLeft: "12px",
+                fontSize: "18px",
+                lineHeight: "1",
+                flexShrink: 0,
+                transition: "all 0.2s ease",
+                fontWeight: "bold",
+              }}
+              onMouseEnter={(e) => {
+                e.target.style.opacity = "0.8";
+              }}
+              onMouseLeave={(e) => {
+                e.target.style.opacity = "1";
+              }}
+              aria-label="Close alert"
+            >
+              ×
+            </button>
+          </div>
         </div>
       )}
 
